@@ -2,7 +2,8 @@
 
 var StarField = function(options) {
 
-    var canvas          = document.getElementById('starfield'),
+    var options         = options || {},
+        canvas          = document.getElementById('starfield'),
         context         = canvas.getContext('2d'),
         canvas_width    = options.width     || window.innerWidth,
         canvas_height   = options.height    || 150,
