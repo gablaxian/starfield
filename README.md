@@ -1,7 +1,7 @@
 starfield
 =========
 
-Funky little script that creates a flickering starfield. Currently in use as the header for my site, (gablaxian.com)[http://gablaxian.com]
+Funky little script that creates a flickering starfield. Currently in use as the header for my site, [gablaxian.com](http://gablaxian.com)
 
 ## Usage
 
